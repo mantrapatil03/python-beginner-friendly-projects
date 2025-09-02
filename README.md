@@ -1,2 +1,5 @@
-# python-beginner-projects
-A collection of beginner-friendly Python projects to practice programming basics — calculators, organizers, timers, and more.
+
+# 🐍 Python Beginner Projects
+
+This repository contains **9 beginner-friendly Python projects**.  
+They are small programs to practice Python basics like variables, loops, functions, file handling, and simple logic.  
