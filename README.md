@@ -18,3 +18,15 @@ They are small programs to practice Python basics like variables, loops, functio
 7. ✅ [To-Do List](todo-list/)  
 8. 🗂️ [File Organizer](file-organizer/)  
 9. 🔢 [Unit Converter](unit-converter/)  
+
+
+
+## 👨‍💻 Author
+
+Mantra Patil
+
+💼 LinkedIn: www.linkedin.com/in/mantrapatil25
+
+✉ Email: mantrapatil2007@gmail.com
+
+✨ Thanks for visiting my profile! ✨
