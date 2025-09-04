@@ -25,7 +25,7 @@ They are small programs to practice Python basics like variables, loops, functio
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/python-beginner-projects.git
+   git clone https://github.com/mantrapatil03/python-beginner-projects.git
 
 2. Go into a project folder, for example:
 
