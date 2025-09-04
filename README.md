@@ -19,7 +19,49 @@ They are small programs to practice Python basics like variables, loops, functio
 8. 🗂️ [File Organizer](file-organizer/)  
 9. 🔢 [Unit Converter](unit-converter/)  
 
+---
 
+## 🚀 How to Run
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/python-beginner-projects.git
+
+2. Go into a project folder, for example:
+
+cd student-grade-calculator
+
+
+3. Run the script:
+
+python main.py
+
+
+
+
+---
+
+## 🛠 Tech Used
+
+Python 3.x
+
+Standard libraries (random, time, os, etc.)
+
+(Optional) tkinter for simple GUI apps
+
+
+
+---
+
+## 🎯 Purpose
+
+This repo is made to:
+
+Practice core Python concepts
+
+Build small but useful programs
+
+Prepare for bigger intermediate & advanced projects
 
 ## 👨‍💻 Author
 
