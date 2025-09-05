@@ -43,7 +43,7 @@ Select an option:
 ## 🛠 Example
 
 Stopwatch
-```
+```python
 Stopwatch started. Press Enter to stop.
 Elapsed time: 12.34 seconds
 ```
