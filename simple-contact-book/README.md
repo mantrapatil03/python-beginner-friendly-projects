@@ -37,7 +37,7 @@ contact_book.add_contact(Contact("Ram", "987-654-3210"))
 contact_book.show_contacts()
 ```
 
-# 🖥️ Output:
+## 🖥️ Output:
 ```python
 Name: Shree, Phone: 123-456-7890
 Name: Ram, Phone: 987-654-3210
