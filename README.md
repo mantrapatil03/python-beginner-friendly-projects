@@ -62,6 +62,16 @@ Practice core Python concepts
 Build small but useful programs
 
 Prepare for bigger intermediate & advanced projects
+---
+```text
+   ____        _   _                 
+  |  _ \ _   _| |_| |__   ___  _ __  
+  | |_) | | | | __| '_ \ / _ \| '_ \ 
+  |  __/| |_| | |_| | | | (_) | | | |
+  |_|    \__, |\__|_| |_|\___/|_| |_|
+         |___/                        
+```
+
 
 ## 👨‍💻 Author
 
