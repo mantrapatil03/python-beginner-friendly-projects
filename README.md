@@ -15,7 +15,7 @@ They are small programs to practice Python basics like variables, loops, functio
 4. 📒 [Simple Contact Book](simple-contact-book/)  
 5. ⏱️ [Stopwatch / Timer](stopwatch-timer/)  
 6. ⏰ [Alarm Clock](alarm-clock/)  
-7. ✅ [To-Do List](todo-list/)  
+7. ✅ [To-Do List](To-Do-list/)  
 8. 🗂️ [File Organizer](file-organizer/)  
 9. 🔢 [Unit Converter](unit-converter/)  
 
