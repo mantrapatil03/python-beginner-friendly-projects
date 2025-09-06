@@ -4,7 +4,6 @@
 
 
 
-
 A simple and interactive Python program that calculates student grades based on marks entered between 0 and 100.
 
 ## 📌 Features
