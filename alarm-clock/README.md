@@ -46,7 +46,7 @@ If not installed on Linux:
 Clone the repository:
 
 ```
-git clone https://github.com/mantrapatil03/python-beginner-projects/alarm-clock.git 
+git clone https://github.com/mantrapatil03/python-beginner-friendly-projects/alarm-clock.git 
 cd alarm-clock 
 ```
 (Optional) Create a virtual environment:
@@ -64,25 +64,7 @@ Run the program:
 ```
 python alarm_clock.py
 ```
-## 📖 How It Works
 
-1. Set Alarm
-
-Enter a time in HH:MM:SS format (e.g., 07:30:00).
-
-Click Set Alarm.
-
-2. Check Alarm
-
-Program checks the system clock every second.
-
-When the time matches, it shows a popup alert.
-
-3. Stop Alarm
-
-You can stop the alarm manually with the Stop Alarm button.
-
-The alarm also stops automatically after ringing.
 
 
 ## 📌 Future Improvements
