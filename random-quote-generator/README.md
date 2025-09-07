@@ -30,7 +30,7 @@ Press Enter to get another quote or type 'exit' to quit:
 
 
 
-git clone https://github.com/mantrapatil03/python-beginner-projects/random-quote-generator.git
+git clone https://github.com/mantrapatil03/python-beginner-friendly-projects/random-quote-generator.git
 
 
 3. Navigate to the project folder:
@@ -50,3 +50,5 @@ python random_quote_generator.py
 Press Enter to get a new random quote ✨.
 
 Type exit to quit the program ❌.
+
+
