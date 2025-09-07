@@ -59,7 +59,9 @@ Time's up!
 ```
 
 ## 📂 Project Structure
+
 stopwatch_timer.py   # Main script
+
 README.md            # Project documentation
 
 ## 📖 Requirements
