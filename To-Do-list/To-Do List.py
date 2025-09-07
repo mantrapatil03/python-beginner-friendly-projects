@@ -73,11 +73,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Simple To-Do List Application
-# Features:
-# - View tasks
-# - Add tasks
-# - Mark tasks as completed
-# - Delete tasks
-# - Exit the application
 
