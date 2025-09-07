@@ -1,5 +1,25 @@
 # ⏰ How the Alarm Clock Works
 
+## 📖 How It Works
+
+1. Set Alarm
+
+Enter a time in HH:MM:SS format (e.g., 07:30:00).
+
+Click Set Alarm.
+
+2. Check Alarm
+
+Program checks the system clock every second.
+
+When the time matches, it shows a popup alert.
+
+3. Stop Alarm
+
+You can stop the alarm manually with the Stop Alarm button.
+
+The alarm also stops automatically after ringing.
+
 ## 1️⃣ User Interface Setup
 
 When you run the program, a small window opens.
