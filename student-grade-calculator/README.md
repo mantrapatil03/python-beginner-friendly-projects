@@ -41,20 +41,21 @@ Marks Range	Grade
 ## 🚀 Getting Started
 
 1. Clone the repository
-
-git clone https://github.com/mantrapatil03/python-beginner-projects/student-grade-calculator.git
-
+```
+git clone https://github.com/mantrapatil03/python-beginner-friendly-projects/student-grade-calculator.git
+```
+```
 cd student-grade-calculator
-
+```
 
 2. Run the program
 
 Make sure you have Python 3.x installed.
-
+```
 python Student_Grade_Calculator.py
-
+```
 ## 🖥️ Example Usage
-
+```
 Student Grade Calculator
 
 Enter the marks (0-100): 85
@@ -74,7 +75,7 @@ Grade: D
 Do you want to calculate another grade? (y/n): n
 
 Thank you for using the Student Grade Calculator!
-
+```
 ## 📂 Project Structure
 
 student-grade-calculator/
