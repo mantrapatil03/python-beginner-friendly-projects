@@ -36,7 +36,7 @@ Category: Normal weight
 
 
 
-git clone https://github.com/mantrapatil03/python-beginner-projects/bmi-calculator.git
+git clone https://github.com/mantrapatil03/python-beginner-friendly-projects/bmi-calculator.git
 
 3. Navigate to the project folder:
 
