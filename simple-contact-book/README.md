@@ -61,7 +61,7 @@ Made with ❤️ by Mantra Patil
 
 💼 LinkedIn: https://www.linkedin.com/mantrapatil25
 
-✉ mantrapatil2007@gmail.com
+✉ techmantrapatil@gmail.com
 
 
 
