@@ -15,10 +15,12 @@ You can set an alarm in **HH:MM:SS format**, and the app will alert you when the
 ---
 
 ## 📂 Project Structure
-alarm_clock.py # Main program file
-requirements.md # Dependencies
-README.md # Project documentation
-
+```
+|-- HOW_IT_WORKS.MD # Working 
+|-- README.md # Project documentation
+|-- alarm_clock.py # Main program file
+|-- requirements.md # Dependencies
+```
 
 ---
 
