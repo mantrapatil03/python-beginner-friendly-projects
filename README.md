@@ -32,6 +32,11 @@ They are small programs to practice Python basics like variables, loops, functio
 cd student-grade-calculator
 
 
+
+
+
+
+
 3. Run the script:
 
 python main.py
