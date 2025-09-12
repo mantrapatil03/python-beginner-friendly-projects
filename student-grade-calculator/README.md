@@ -20,6 +20,8 @@ A simple and interactive Python program that calculates student grades based on 
 
 ## 🧮 Grading Scale
 
+
+
 Marks Range	Grade
 
 90 – 100	A+
