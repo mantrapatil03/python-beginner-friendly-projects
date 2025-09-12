@@ -24,6 +24,7 @@ python stopwatch_timer.py
 
 ## 🎮 Usage
 
+
 When you run the program, you’ll see a menu:
 
 Choose an option:
