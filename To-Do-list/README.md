@@ -4,6 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 
+
 A clean and lightweight **command-line To-Do List application** written in Python.  
 Manage your tasks efficiently with options to add, view, mark as complete, and delete — all from your terminal.  
 
