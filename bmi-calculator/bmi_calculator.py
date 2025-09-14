@@ -31,14 +31,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# BMI Calculator
-# This script calculates the Body Mass Index (BMI) based on user input for weight and height.
-# It then categorizes the BMI into standard health categories.
-
-
-# BMI Calculator
-# Enter your weight in kilograms: 70
-# Enter your height in meters: 1.75
-
-# Your BMI is: 22.86
-# Category: Normal weight
