@@ -68,6 +68,7 @@ Build small but useful programs
 
 Prepare for bigger intermediate & advanced projects
 ---
+
 ```text
    ____        _   _                 
   |  _ \ _   _| |_| |__   ___  _ __  
