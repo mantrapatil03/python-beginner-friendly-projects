@@ -29,3 +29,4 @@ if __name__ == "__main__":
 
 # random_quote_generator.py
 # A simple command-line application that displays a random motivational quote each time it is run.
+
