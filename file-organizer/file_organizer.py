@@ -1,14 +1,3 @@
-# How it works:
-# You input the folder path you want to organize.
-# The script scans all files (not folders) in that directory.
-# It moves files into subfolders based on their file extensions.
-# Files with unknown extensions go into an "Others" folder.
-
-# Note:
-# Make sure you have permission to move files in the target directory.
-# This script moves files, so be careful running it on important directories.
-
-
 import os
 import shutil
 
@@ -65,9 +54,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
-This script organizes files in a specified directory into subdirectories based on their file types. 
-It categorizes files into Images, Documents, Audio, Videos, Archives, Scripts, and Others.
-To use the script, run it and provide the path to the folder you want to organize.
-Make sure to have the necessary permissions to read and write in the specified directory.
-"""
+
