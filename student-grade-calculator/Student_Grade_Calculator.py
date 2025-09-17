@@ -15,6 +15,7 @@ def calculate_grade(marks):
         return 'F'
     else:
         return None  # Invalid marks
+        
 
 def main():
     print("Student Grade Calculator")
@@ -88,3 +89,4 @@ D
 0 - 39
 F
 '''
+
