@@ -20,7 +20,9 @@ def organize_files(folder_path):
     for filename in os.listdir(folder_path):
         file_path = os.path.join(folder_path, filename)
 
+        
         # Skip directories
+        
         if os.path.isdir(file_path):
             continue
 
@@ -53,5 +55,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
