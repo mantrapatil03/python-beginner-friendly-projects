@@ -1,7 +1,5 @@
 # ✅ To-Do List Application (Python)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Active-success)
 
 
 
