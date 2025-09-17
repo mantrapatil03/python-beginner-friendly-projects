@@ -1,5 +1,5 @@
 def calculate_bmi(weight, height):
-    # BMI formula: weight (kg) / (height (m))^2
+    ## BMI formula: weight (kg) / (height (m))^2
     bmi = weight / (height ** 2)
     return bmi
 
@@ -30,4 +30,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
