@@ -8,6 +8,7 @@ Enter a time in HH:MM:SS format (e.g., 07:30:00).
 
 Click Set Alarm.
 
+
 2. Check Alarm
 
 Program checks the system clock every second.
