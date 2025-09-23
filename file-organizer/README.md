@@ -65,10 +65,10 @@ Downloads/
 │   └── script.py
 ```
 
-## ⚠️ Notes
-This script moves files (not copies), so double-check before running it on important directories.
+## **⚠️** **Notes**
+***This script moves files (not copies), so double-check before running it on important directories.***
 
-Make sure you have permissions to modify the target folder.
+***Make sure you have permissions to modify the target folder.***
 
 ## 🔮 Future Improvements
 Add support for more file categories (fonts, executables, etc.).
@@ -78,7 +78,7 @@ Option for copying instead of moving files.
 GUI version for easier use.
 
 ## 👨‍💻 Author
-Mantra Patil
+**Mantra Patil**
 
 Engineering Student | Python Developer (Learning) | Cybersecurity Enthusiast
 
