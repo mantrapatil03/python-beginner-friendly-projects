@@ -12,7 +12,7 @@ A simple Python command-line application that displays a random motivational quo
 
 
 ## 🎬 Demo
-
+```
 $ python random_quote_generator.py
 
 Random Quote Generator
@@ -20,31 +20,31 @@ Random Quote Generator
 "Don’t let yesterday take up too much of today. – Will Rogers"
 
 Press Enter to get another quote or type 'exit' to quit:
-
+```
 ## 🛠 Installation
 
-1. Make sure you have Python 3.x installed 🐍.
+1. Make sure you have `Python 3.x` installed 🐍.
 
 
 2. Clone this repository:
 
 
-
+```
 git clone https://github.com/mantrapatil03/python-beginner-friendly-projects/random-quote-generator.git
-
+```
 
 3. Navigate to the project folder:
 
 
-
+```
 cd random-quote-generator
-
+```
 4. Run the program:
 
-
+```
 
 python random_quote_generator.py
-
+```
 ## 💡 Usage
 
 Press Enter to get a new random quote ✨.
