@@ -79,16 +79,16 @@ Do you want to calculate another grade? (y/n): n
 Thank you for using the Student Grade Calculator!
 ```
 ## 📂 Project Structure
-
+```
 student-grade-calculator/
 
 │── Student_Grade_Calculator.py   # Main program file
 
 │── README.md                     # Project documentation
-
+```
 ## 👨‍💻 Author
 
-Mantra Patil
+**Mantra Patil**
 
 💻 Engineering Student | Python Developer | Ethical Hacking & Cybersecurity Enthusiast
 
