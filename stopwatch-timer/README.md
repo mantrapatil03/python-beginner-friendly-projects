@@ -23,7 +23,7 @@ Run the program:
 python stopwatch_timer.py
 
 ## 🎮 Usage
-
+```
 
 When you run the program, you’ll see a menu:
 
@@ -31,7 +31,7 @@ Choose an option:
 1. Stopwatch
 2. Timer
 3. Exit
-
+```
 
 Select an option:
 
@@ -60,18 +60,18 @@ Time's up!
 ```
 
 ## 📂 Project Structure
-
+```
 stopwatch_timer.py   # Main script
 
 README.md            # Project documentation
-
+```
 ## 📖 Requirements
 
-Python 3.x (No external libraries required)
+`Python 3.x `(No external libraries required)
 
 ## 👨‍💻 Author
 
-Mantra Patil
+**Mantra Patil**
 
 💼 LinkedIn: https://www.linkedin.com/in/mantrapatil25
 
