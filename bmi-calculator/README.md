@@ -14,7 +14,7 @@ Simple, interactive, and user-friendly interface.
 
 
 ## 🎬 Demo
-
+```
 $ python bmi_calculator.py
 
 BMI Calculator
@@ -26,30 +26,30 @@ Enter your height in meters: 1.75
 Your BMI is: 22.86
 
 Category: Normal weight
-
+```
 ## 🛠 Installation
 
-1. Make sure you have Python 3.x installed 🐍.
+1. Make sure you have `Python 3.x` installed 🐍.
 
 
 2. Clone this repository:
 
 
-
+```
 git clone https://github.com/mantrapatil03/python-beginner-friendly-projects/bmi-calculator.git
-
+```
 3. Navigate to the project folder:
 
 
-
+```
 cd bmi-calculator
-
+```
 4. Run the program:
 
 
-
+```
 python bmi_calculator.py
-
+```
 ## 💡 Usage
 
 Enter your weight in kilograms.
