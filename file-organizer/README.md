@@ -1,49 +1,59 @@
-## 🗂️ File Organizer Script (Python)
+<h1 align="center"> File Organizer Script (Python)</h1>
 
-A simple Python script to automatically **organize files** in a directory into subfolders based on their file types (extensions).  
-No more messy folders — everything is sorted neatly!
+<p align="center">
+A smart and lightweight <b>Python automation script</b> that automatically <b>organizes your files</b> into categorized subfolders based on their extensions.  
+Say goodbye to messy "Downloads" folders — everything gets sorted neatly in seconds! 
+</p>
 
----
-
-## ⚙️ How It Works
-1. You input the folder path you want to organize.
-2. The script scans all files in that directory (ignores subfolders).
-3. It moves files into subfolders based on their extensions:
-   - **Images** → `.jpg, .jpeg, .png, .gif, .bmp, .tiff`
-   - **Documents** → `.pdf, .doc, .docx, .txt, .xls, .xlsx, .ppt, .pptx`
-   - **Audio** → `.mp3, .wav, .aac, .flac`
-   - **Videos** → `.mp4, .mov, .avi, .mkv`
-   - **Archives** → `.zip, .rar, .tar, .gz, .7z`
-   - **Scripts** → `.py, .js, .html, .css, .sh, .bat`
-   - **Others** → Any file type not listed above
-4. Files with unknown extensions are moved into an **"Others"** folder.
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Automation-Script-green?style=for-the-badge&logo=autohotkey"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20MacOS-orange?style=for-the-badge&logo=linux"></a>
+  <a href="https://github.com/mantrapatil03/python-beginner-friendly-projects"><img src="https://img.shields.io/github/stars/mantrapatil03/python-beginner-friendly-projects?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
-## 🚀 Usage
+## How It Works
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/file-organizer.git
-   cd file-organizer
-   
-2.Run the script:
+1️⃣ You input the **folder path** you want to organize.  
+2️⃣ The script scans all files (ignoring subfolders).  
+3️⃣ It creates subfolders based on file types and **moves** files accordingly:  
 
+| Category | File Extensions |
+|-----------|----------------|
+|  **Images** | `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.tiff` |
+|  **Documents** | `.pdf`, `.doc`, `.docx`, `.txt`, `.xls`, `.xlsx`, `.ppt`, `.pptx` |
+|  **Audio** | `.mp3`, `.wav`, `.aac`, `.flac` |
+|  **Videos** | `.mp4`, `.mov`, `.avi`, `.mkv` |
+|  **Archives** | `.zip`, `.rar`, `.tar`, `.gz`, `.7z` |
+|  **Scripts** | `.py`, `.js`, `.html`, `.css`, `.sh`, `.bat` |
+|  **Others** | Any unrecognized file type |
 
-```python file_organizer.py```
+ Files with unknown or uncommon extensions are moved into an **“Others”** folder.  
 
-3.Enter the folder path when prompted:
+---
 
+##  Usage Guide
+
+### 1️⃣ Clone this repository:
+```bash
+git clone https://github.com/mantrapatil03/python-beginner-friendly-projects.git
+cd python-beginner-friendly-projects/file-organizer
+```
+### 2️⃣ Run the script:
+```
+python file_organizer.py
+```
+3️⃣ Enter your target folder path:
 ```
 Enter the path of the folder to organize: /home/user/Downloads
 ```
-4.Done ✅ Your files will be sorted into subfolders.
+✅ Done! Your files will now be automatically categorized into subfolders.
 
-## 📌 Example
-
+## Example Output
 Before:
-```
-javascript
+```javascript
 Downloads/
 ├── photo1.jpg
 ├── song.mp3
@@ -51,9 +61,8 @@ Downloads/
 ├── script.py
 ```
 
-After running the script:
-```
-arduino
+After:
+```arduino
 Downloads/
 ├── Images/
 │   └── photo1.jpg
@@ -65,21 +74,18 @@ Downloads/
 │   └── script.py
 ```
 
-## **⚠️** **Notes**
-***This script moves files (not copies), so double-check before running it on important directories.***
+### ⚠️ Notes
 
-***Make sure you have permissions to modify the target folder.***
+- This script moves files (does not copy).
+- Make sure you have write permissions for the directory.
+- Always test on a small sample folder first to verify results.
 
-## 🔮 Future Improvements
-Add support for more file categories (fonts, executables, etc.).
-
-Option for copying instead of moving files.
-
-GUI version for easier use.
-
-## 👨‍💻 Author
+## Author
 **Mantra Patil**
 
-Engineering Student | Python Developer (Learning) | Cybersecurity Enthusiast
+💼 LinkedIn: https://www.linkedin.com/in/mantrapatil25
+
+✉️ techmantrapatil@gmail.com
 
 
+<h3 align="center">✨ If you found this useful, consider giving it a ⭐ on GitHub! ✨</h3> <p align="center"> <img src="https://img.shields.io/badge/Stay%20Organized%20%26%20Keep%20Coding!-Python-blue?style=for-the-badge&logo=python"> </p>
