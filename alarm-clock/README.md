@@ -1,89 +1,106 @@
-# ⏰ Simple Alarm Clock (Python + Tkinter)
+<h1 align="center"> Advanced Alarm Clock (Python + Tkinter)</h1>
 
-A lightweight **Alarm Clock GUI application** built using Python's `tkinter`.  
-You can set an alarm in **HH:MM:SS format**, and the app will alert you when the time is reached.
+<p align="center">
+  A simple yet powerful <b>Alarm Clock GUI application</b> built using <b>Python</b> and <b>Tkinter</b> .  
+  Set alarms easily, get notified when time’s up, and enjoy a clean, modern interface.  
+  Perfect for beginners exploring GUI programming with Python.
+</p>
 
----
-
-## 🚀 Features
-- 🕒 Set alarm time in **HH:MM:SS format**
-- ✅ Validates input (shows error popup if format is wrong)
-- 🔔 Alarm rings with a popup message
-- ⏹ Stop button to cancel the alarm anytime
-- 🎨 Simple and responsive Tkinter GUI
-
----
-
-## 📂 Project Structure
-```
-|-- HOW_IT_WORKS.MD # Working 
-|-- README.md # Project documentation
-|-- alarm_clock.py # Main program file
-|-- requirements.md # Dependencies
-```
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python"></a>
+  <a href="https://docs.python.org/3/library/tkinter.html"><img src="https://img.shields.io/badge/GUI-Tkinter-ff69b4?style=for-the-badge&logo=python"></a>
+  <a href="https://github.com/mantrapatil03/python-beginner-friendly-projects/stargazers"><img src="https://img.shields.io/github/stars/mantrapatil03/python-beginner-friendly-projects?style=for-the-badge&logo=github"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Platform-Cross%20Platform-orange?style=for-the-badge&logo=windows"></a>
+</p>
 
 ---
 
-## 🛠 Requirements
+##  Features
 
-- Python **3.8+**
-  
-- Tkinter (comes pre-installed with Python)
-  
-- datetime (Python standard library)
+-  **Set Alarms** – Enter time in `HH:MM:SS` format  
+-  **Input Validation** – Shows error message for invalid formats  
+-  **Popup Alerts** – Alarm notification when time is reached  
+-  **Stop Alarm Button** – Cancel active alarms easily  
+-  **Responsive Tkinter GUI** – Clean, minimal design with clear controls  
+-  **Lightweight & Beginner-Friendly** – Easy to understand and extend  
 
-To check if Tkinter is installed, run:
+---
 
+
+---
+
+##  Requirements
+
+| Dependency | Description |
+|-------------|-------------|
+| **Python 3.8+** | Core programming language |
+| **Tkinter** | GUI framework (preinstalled with Python) |
+| **datetime** | For time management |
+
+Check if Tkinter is available:
 ```python
 import tkinter
 print("Tkinter is working!")
 ```
-
-If not installed on Linux:
-
-```sudo apt-get install python3-tk```
-
-## ▶️ How to Run
-
-Clone the repository:
-
+If missing on Linux, install it with:
 ```
-git clone https://github.com/mantrapatil03/python-beginner-friendly-projects/alarm-clock.git 
-cd alarm-clock 
+sudo apt-get install python3-tk
 ```
-(Optional) Create a virtual environment:
+##  How to Run
 
+1️⃣ Clone the Repository
+```
+git clone https://github.com/mantrapatil03/python-beginner-friendly-projects.git
+cd python-beginner-friendly-projects/alarm-clock
+```
+
+2️⃣ (Optional) Create a Virtual Environment
 ```
 python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
+# Activate environment
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
 ```
-Install dependencies:
+
+3️⃣ Install Dependencies
 ```
 pip install -r requirements.txt
 ```
-Run the program:
+4️⃣ Run the App
 ```
 python alarm_clock.py
 ```
+>  Tip: Keep the app running in the background — it will alert you when the alarm time matches your system clock.
 
+### Future Roadmap
+| Feature               |   Status  | Description                        |
+| --------------------- | :-------: | ---------------------------------- |
+|  Add alarm sound    |  Planned | Play audio when alarm triggers     |
+|  Multiple alarms     |  Planned | Support for more than one alarm    |
+|  Snooze option      |  Planned | Add “Remind me later” button       |
+|  Save alarm history |  Planned | Keep a log of past alarms          |
+|  Custom themes      |  Planned | Light/Dark mode for Tkinter window |
 
+###  Contributing
 
-## 📌 Future Improvements
+Contributions are always welcome! 🚀
+- Fork this repository
+- Create a feature branch
+    ```
+    git checkout -b feature/your-feature
+    ```
+- Commit your changes
+- Push to your fork
+- Open a Pull Request
+> Please follow clean code practices and PEP8 styling.
 
-🔊 Add alarm sound
-
-⏰ Allow multiple alarms
-
-🛌 Add snooze button
-
-📜 Save alarm history
-
-## 🏷 Author
-
-Mantra Patil
+## Author
+**Mantra Patil**
 
 💼 LinkedIn: https://www.linkedin.com/in/mantrapatil25
 
-✉ techmantrapatil@gmail.com
+✉️ techmantrapatil@gmail.com
 
+
+<h3 align="center">🎉 Thanks for checking out my Alarm Clock project! 🎉</h3> <p align="center"> If you found this helpful, please consider giving it a ⭐ on GitHub! <br><br> <img src="https://img.shields.io/badge/Keep%20Coding-Build%20with%20Python-orange?style=for-the-badge&logo=python"> </p>
