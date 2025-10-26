@@ -1,7 +1,7 @@
 <h1 align="center"> Python Beginner-Friendly Projects</h1>
 
 <p align="center">
-  A curated collection of <b>9 simple yet practical Python projects</b> — perfect for beginners learning loops, functions, logic, and file handling.
+  A curated collection of <b>10 simple yet practical Python projects</b> — perfect for beginners learning loops, functions, logic, and file handling.
 </p>
 
 <p align="center">
@@ -35,6 +35,8 @@ You'll find small but useful programs — great for understanding **core syntax,
 | 7️⃣ | ✅ [To-Do List](To-Do-list/) | Manage daily tasks with add/remove features. |
 | 8️⃣ | 🗂️ [File Organizer](file-organizer/) | Automatically sort files into folders by extension. |
 | 9️⃣ | 🔢 [Unit Converter](unit-converter/) | Convert between common measurement units. |
+| 🔟 | 🔊 [Document to Audio Converter](document-to-audio-converter/) | Convert text from documents (`.docx`) into spoken audio. |
+
 
 ---
 
